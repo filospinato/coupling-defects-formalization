@@ -1,0 +1,18 @@
+cff-version: 1.2.0
+message: "If you use this verification supplement, please cite this version."
+type: software
+license: Apache-2.0
+version: "1.0.0"
+title: "Coupling defects of large-prime fibres in optimal path partitions of the divisor graph: verification supplement"
+authors:
+  - family-names: Cavallari
+    given-names: Filippo
+repository-code: "https://github.com/filospinato/coupling-defects-formalization"
+url: "https://github.com/filospinato/coupling-defects-formalization"
+abstract: "Lean formalization and an independent Python certificate. The paper-to-Lean audit records the formalized statements and external analytic inputs."
+keywords:
+  - Lean
+  - formal verification
+  - divisor graph
+  - path partitions
+  - coupling defects
